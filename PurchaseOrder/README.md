@@ -1,0 +1,1 @@
+This is project where we converted different amounts of time and money, and also checked if orders have already been ordered or already fulfilled. We also keep track of certain orders which have the date, time, name, and the cost of the product they bought. It keeps track of entire orders as well as conversion.
